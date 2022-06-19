@@ -1,0 +1,93 @@
+.container-customer{
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+.brandlogo{
+  font-family:cursive;
+  font-size: 18px;
+}
+
+.car {
+  min-width: 400px
+}
+.card-image img{
+  height:250px;
+  object-fit: contain;
+}
+h1{
+  font-family: fantasy;
+  font-size: 25px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100px;
+ }
+ .buton{
+        width: 280px;
+        height: 30px;
+        border-bottom: 0.5px;
+        border-radius: 5px;
+        padding:0px;
+ } 
+  .container{
+    margin: 400px;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+  margin-right: 100px; 
+  
+
+  }
+
+.alerta {
+  color: red;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+
+/* estilos de car*/
+
+.title{
+  color: red;
+  font-size: 25px;
+}
+
+.detalle-producto{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.detalle-producto p {
+  margin: 10px;
+  min-width: 150px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.producto {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.producto div {
+  margin: 10px;
+  min-width: 150px;
+  text-align: center;
+}
+
+.imagen img{
+  width: 80px;
+}
+
+.precio {
+  color: blue;
+  font-weight: bold;
+}
